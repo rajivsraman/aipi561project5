@@ -1,4 +1,9 @@
-# API Documentation for Bedrock Titan LLM Wrapper
+# AIPI 561 (Operationalizing AI) - Week 8 Project
+### Author: Rajiv Raman
+### Institution: Duke University
+### Date: June 15th, 2025
+
+## Overview
 
 This FastAPI application exposes two endpoints that wrap Amazon Bedrock's Titan model. Use it to send prompts, receive generated responses, and monitor performance.
 
